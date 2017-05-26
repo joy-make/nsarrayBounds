@@ -1,0 +1,16 @@
+//
+//  demo.pch
+//  ArrayBoundsCrash
+//
+//  Created by wangguopeng on 2017/5/26.
+//  Copyright © 2017年 joymake. All rights reserved.
+//
+
+#ifndef demo_pch
+#define demo_pch
+#import "NSArray+LXZArray.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* demo_pch */
